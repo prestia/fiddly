@@ -9,5 +9,8 @@ callouts:
   tools:
     title: Parts & tools
     color: purple
+  aside:
+    title: Aside
+    color: green
 
 aux_links:
