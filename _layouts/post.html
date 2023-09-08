@@ -3,7 +3,7 @@ layout: default
 ---
 <h1>{{page.title}}</h1>
 <span class="post-date" style="font-size: 0.8rem;margin-bottom: 1rem;">Updated {{page.date}}</span>
-<p><img src="{{page.image}}" alt="Header image for {{page.title}}"></p>
+{% if page.image %}<p><img src="{{page.image}}" alt="Header image for {{page.title}}"></p>{% endif %}
 
 {{ content }}
 
