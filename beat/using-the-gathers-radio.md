@@ -6,6 +6,7 @@ author: "Anthony"
 categories: beat
 tags: [beat,diy]
 parent: Honda Beat
+image: ../assets/img/using-the-gathers-radio/head-unit-lit.jpg
 date: September 6, 2023
 ---
 ## Intro
@@ -42,7 +43,7 @@ The guide is divided into 5 sections:
 4. [CD changer](#cd-changer)
 5. [Error codes](#error-codes)
 
-Please [reach out](mailto:tony@mediumtonysgarage.com) if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-6-using-the-gathers-radio.md).
+Please [reach out](mailto:anthony@fiddly.net) if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/fiddly/edit/main/beat/using-the-gathers-radio.md).
 
 ## General usage
 
