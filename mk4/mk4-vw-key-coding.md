@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to coding new keys for Mk4 VWs with Immo3 using open source software"
+title: "How to code new keys for Mk4 VWs with Immo3 using open source software"
 short-title: "Code keys with FOSS"
 parent: Mk4 VW
 author: "Anthony"
