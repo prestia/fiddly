@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "DIY: FM band expander install"
-author: "Medium Tony"
+title: "FM band expander install"
+author: "Anthony"
 categories: beat
 tags: [beat,diy]
 parent: Honda Beat
