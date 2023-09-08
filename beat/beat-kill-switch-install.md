@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Install a kill switch in the Honda Beat"
+title: "How to install a kill switch in the Honda Beat"
+short-title: "Install kill switch"
 author: "Anthony"
 categories: beat
 tags: [beat,diy]
