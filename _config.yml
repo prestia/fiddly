@@ -5,4 +5,9 @@ theme: just-the-docs
 url: https://fiddly.net
 github_root: https://github.com/prestia/fiddly/blob/main/
 
+callouts:
+  tools:
+    title: Parts & tools
+    color: purple
+
 aux_links:
