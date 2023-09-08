@@ -13,7 +13,7 @@ Thankfully, if you have the stock Honda Beat Gathers head unit, there's a relati
 
 The name "band expander" is a bit misleading. The device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. Your head unit will still show 76-95 but you'll actually be listening to something 14 Mhz (or 28 MHz) higher.
 
-![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](assets/img/beat-fm-band-expander/band-expander.jpg)
+![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](../assets/img/beat-fm-band-expander/band-expander.jpg)
 
 Units like the one pictured above claim to reduce the 90-104 MHz bands by 14 MHz (to 76-90 MHz) and the 104-108 MHz bands by 28 MHz (to 76-80 MHz). Anything under 90 MHz is left alone.
 
@@ -74,13 +74,13 @@ To determine the potential frequency collisions in your area:
 
 The back of your Gathers head unit looks like this:
 
-![Picture of the back of a Honda Beat Gathers head unit with the antenna port circled in red.](assets/img/beat-fm-band-expander/radio-back.jpg)
+![Picture of the back of a Honda Beat Gathers head unit with the antenna port circled in red.](../assets/img/beat-fm-band-expander/radio-back.jpg)
 
 The bit circled in red is the port where your radio antenna plugs in, and it's where we'll insert our band expander.
 
 Fortunately, you should be able to reach this port without removing the head unit. Simply peel back the carpet in the driver's footwell until you can see the antenna cable poking out:
 
-![Picture of driver's side carpet pulled back with the radio antenna cable circled in red.](assets/img/beat-fm-band-expander/carpet-pulled-back.jpg)
+![Picture of driver's side carpet pulled back with the radio antenna cable circled in red.](../assets/img/beat-fm-band-expander/carpet-pulled-back.jpg)
 
 You should only need to undo a bit of velcro and get around a single snap. It really doesn't take much. You'll also have fewer wires and obstacles in the way than the photo suggests. I have a Japanese electronic toll card installed in this same spot.
 
@@ -90,7 +90,7 @@ While this tutorial doesn't require removal of the head unit, it's worth noting 
 
 Unplugging the antenna should be pretty straightforward. It won't require much force but, if you've got beefy fingers, you may want to use a small pair of pliers to grip the metal collar and pull. Just be sure not to damage the plug, as we'll need to use it again.
 
-![Picture of the antenna cable unplugged from the head unit and circled in red.](assets/img/beat-fm-band-expander/aerial-unplugged.jpg)
+![Picture of the antenna cable unplugged from the head unit and circled in red.](../assets/img/beat-fm-band-expander/aerial-unplugged.jpg)
 
 ### Step 3: Attach the ring terminal and quick disconnect to the band expander
 
@@ -98,7 +98,7 @@ I did this later in the process but, looking back, I wish I had done it while th
 
 Strip about 3/4 of an inch from the end of the ground (black) and power (red) wires on the band expander:
 
-![Picture of the band expander with ground a power wires stripped.](assets/img/beat-fm-band-expander/strip-wires.jpg)
+![Picture of the band expander with ground a power wires stripped.](../assets/img/beat-fm-band-expander/strip-wires.jpg)
 
 Next, crimp the ring terminal to the ground (black) wire and one half of the quick disconnect to the power (red) wire. We'll connect the ring terminal to a screw and the quick disconnect to a 12v accessory wire in a later step.
 
@@ -106,7 +106,7 @@ Next, crimp the ring terminal to the ground (black) wire and one half of the qui
 
 This step is pretty straightforward. Plug the antenna cable into one end of the band expander and then plug the other end into the head unit where you previously removed the antenna cable. It should look like this:
 
-![Picture of the band expander plugged into the head unit and antenna cable.](assets/img/beat-fm-band-expander/box-connected.jpg)
+![Picture of the band expander plugged into the head unit and antenna cable.](../assets/img/beat-fm-band-expander/box-connected.jpg)
 
 The band expander should glide smoothly into the head unit. If you're meeting any resistance, back it out and try again. You probably came in at a slight angle. You'll eventually get it. Be patient. You're having a good time.
 
@@ -114,7 +114,7 @@ The band expander should glide smoothly into the head unit. If you're meeting an
 
 You have some flexibility here. The goal is to connect the ring terminal you attached in Step 3 to a bare metal post. I ended up using this screw:
 
-![Picture of the band expander grounded on a screw under the dash.](assets/img/beat-fm-band-expander/box-grounded.jpg)
+![Picture of the band expander grounded on a screw under the dash.](../assets/img/beat-fm-band-expander/box-grounded.jpg)
 
 
 Just remember that all of the screws under here are JIS and not Phillips. If you use a Phillips screw driver, be careful not to strip them.
@@ -125,11 +125,11 @@ We're nearly done! The goal here is to find a wire we can tap in to for 12v powe
 
 There are several options for 12v accessory power behind the head unit, but my hands are a bit too beefy to reach them comfortably. If that's true for you too, you can put that 22-18 AWG wire to use! The fuse box under the dash on the right has plenty of options. I ended up tapping into one of those wires and running a piece of wire under the dash and over to the band expander:
 
-![Picture of the band expander connected to a 12v source.](assets/img/beat-fm-band-expander/installed-powered.jpg)
+![Picture of the band expander connected to a 12v source.](../assets/img/beat-fm-band-expander/installed-powered.jpg)
 
 Not sure how to find a 12v accessory power source? Turn your key to ACC or ON, connect the black probe on your multimeter to any of the bare metal surfaces under the dash, and then poke around with the red probe until you find a source providing 12v:
 
-![Picture of a multimeter finding a 12v source.](assets/img/beat-fm-band-expander/12v-source.jpg)
+![Picture of a multimeter finding a 12v source.](../assets/img/beat-fm-band-expander/12v-source.jpg)
 
 When you find a 12v source, switch the key to the off position and test the source again. If it reads 0v, you found your power source. If you're still reading 12v, start the search again.
 
@@ -141,9 +141,6 @@ Your band expander should be fully functional now! Before we tuck everything awa
 
 With everything wired and tested, you can now tuck the band expander behind your head unit and re-install the carpet. This is one of the rare times as a Beat owner that you'll find yourself with more than enough space.
 
-![Picture of the band expander hidden and carpet installed.](assets/img/beat-fm-band-expander/carpet-installed.jpg)
+![Picture of the band expander hidden and carpet installed.](../assets/img/beat-fm-band-expander/carpet-installed.jpg)
 
 Now, save some presets and enjoy!
-
-### Contact
-Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-8-30-beat-fm-band-expander.md).
