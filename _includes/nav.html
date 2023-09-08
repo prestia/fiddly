@@ -31,11 +31,11 @@
 {%- for node in first_level_pages -%}
   <li class="nav-list-item">
     {%- if node.has_children -%}
-    <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ node.title }} category" aria-pressed="false">
+    <button class="nav-list-expander btn-reset" aria-label="toggle items in {% if node.short-title %}{{ node.short-title }}{% else %}{{ node.title }}{% endif %} category" aria-pressed="false">
       <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
     </button>
     {%- endif -%}
-    <a href="{{ node.url | relative_url }}" class="nav-list-link">{{ node.title }}</a>
+    <a href="{{ node.url | relative_url }}" class="nav-list-link">{% if node.short-title %}{{ node.short-title }}{% else %}{{ node.title }}{% endif %}</a>
     {%- if node.has_children -%}
       {%- assign children_list = second_level_pages
             | where: "parent", node.title -%}
@@ -46,14 +46,14 @@
       {%- for child in children_list -%}
         <li class="nav-list-item">
           {%- if child.has_children -%}
-          <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ child.short-title }} category" aria-pressed="false">
+          <button class="nav-list-expander btn-reset" aria-label="toggle items in {% if child.short-title %}{{ child.short-title }}{% else %}{{ child.title }}{% endif %} category" aria-pressed="false">
             <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
           </button>
           {%- endif -%}
           <a href="{{ child.url | relative_url }}" class="nav-list-link">{% if child.short-title %}{{ child.short-title }}{% else %}{{ child.title }}{% endif %}</a>
           {%- if child.has_children -%}
             {%- assign grand_children_list = third_level_pages
-                  | where: "parent", child.short-title
+                  | where: "parent", child.title
                   | where: "grand_parent", node.title -%}
             {%- if child.child_nav_order == 'desc' or child.child_nav_order == 'reversed' -%}
               {%- assign grand_children_list = grand_children_list | reverse -%}
@@ -61,7 +61,7 @@
             <ul class="nav-list">
             {%- for grand_child in grand_children_list -%}
               <li class="nav-list-item">
-                <a href="{{ grand_child.url | relative_url }}" class="nav-list-link">{{ grand_child.short-0title }}</a>
+                <a href="{{ grand_child.url | relative_url }}" class="nav-list-link">{% if grand_child.short-title %}{{ grand_child.short-title }}{% else %}{{ grand_child.title }}{% endif %}</a>
               </li>
             {%- endfor -%}
             </ul>
