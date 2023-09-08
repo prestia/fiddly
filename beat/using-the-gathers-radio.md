@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Using the Gathers GXC-8290SF radio"
+title: "How to use and program the Honda Beat Gathers GXC-8290SF radio"
+short-title: "Using the radio"
 author: "Anthony"
 categories: beat
 tags: [beat,diy]
 parent: Honda Beat
-date: 2023-9-6
+date: September, 8, 2023
 ---
 ## Intro
 
