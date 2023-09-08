@@ -19,10 +19,12 @@ You may also want to access the ECU and main relay to do some preventative maint
 Accessing the main relay is also useful if you want to [install a kill switch](./beat-kill-switch-install) to make it somewhat less likely that your Beat will get stolen.
 
 ## Parts & tools
-1. Stubby JIS 2 screwdriver (You'll need a stubby screwdriver to undo fasteners behind the passenger seat. Alternatively, you could remove the seat.)
-2. 10 mm socket
-3. Plastic pry tools
-4. 12 mm socket (Optional. You'll only need this if you plan on removing the passenger seat for easier access.)
+{: .highlight }
+> A paragraph with a custom title callout
+> 1. Stubby JIS 2 screwdriver (You'll need a stubby screwdriver to undo fasteners behind the passenger seat. Alternatively, you could remove the seat.)
+> 2. 10 mm socket
+> 3. Plastic pry tools
+> 4. 12 mm socket (Optional. You'll only need this if you plan on removing the passenger seat for easier access.)
 
 ## Instructions
 
