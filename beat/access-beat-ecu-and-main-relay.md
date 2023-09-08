@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Access the Honda Beat ECU and Main Relay"
+title: "How to access the Honda Beat ECU and main relay"
+short-title: "Access ECU and main relay"
 author: "Anthony"
 categories: beat
 tags: [beat,diy]
