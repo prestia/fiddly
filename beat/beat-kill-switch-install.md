@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "How to install a kill switch in the Honda Beat"
-short-title: "Install kill switch"
+short-title: "Kill switch install"
 author: "Anthony"
 categories: beat
 tags: [beat,diy]
 parent: Honda Beat
+date: September 4, 2023
 ---
 ## Intro
 This guide will walk you through the process of installing a kill switch that disables your fuel pump. There are quiet a few ways to set up a kill switches, but I like the fuel pump cut-off for a few reasons:
