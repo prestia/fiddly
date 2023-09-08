@@ -1,6 +1,5 @@
 ---
 layout: default
-title: UI Components
-nav_order: 2
+title: Honda Beat
 has_children: true
 ---
