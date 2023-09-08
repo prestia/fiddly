@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "FM band expander install"
+title: "How to install an FM band expander in a Honda Beat"
+short-title: "Install FM band expander"
 author: "Anthony"
 categories: beat
 tags: [beat,diy]
