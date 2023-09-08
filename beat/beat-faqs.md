@@ -74,6 +74,3 @@ In any event, it's incredibly easy to test whether your Beat currently has an LS
 If the opposite wheel moves in the opposite direction, you don't have a limited slip differential:
 
 ![Picture of me not having a limited slip differential](../assets/img/beat-faqs/lsd-check-optimized.gif)
-
-## Contact
-Did you find this guide helpful? Do you have some suggestions on how it can be improved? [Send me an email](mailto:tony@mediumtonysgarage.com) or make some [edits on GitHub](https://github.com/prestia/mediumtonys/blob/main/_posts/2023-9-3-beat-faqs.md).
