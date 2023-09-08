@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Honda Beat FAQs"
+short-title: "FAQs"
 author: "Anthony"
 categories: beat
 tags: [beat,diy]
