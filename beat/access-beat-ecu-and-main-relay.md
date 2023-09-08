@@ -26,7 +26,7 @@ Accessing the main relay is also useful if you want to [install a kill switch](.
 
 ## Instructions
 
-### Step 0: Come up with a plan for storing fasteners
+### Step 0: Device a plan for storing fasteners
 
 You're going to remove a lot of tiny fasteners before this project is done, and some of them can only be purchased in Japan. Before you start taking things apart, you should come up with a plan for storing them.
 
