@@ -7,6 +7,7 @@ categories: beat
 tags: [beat,diy]
 parent: Honda Beat
 date: September 4, 2023
+image: ../assets/img/beat-kill-switch-install/kill-switch.jpg
 ---
 ## Intro
 This guide will walk you through the process of installing a kill switch that disables your fuel pump. There are quiet a few ways to set up a kill switches, but I like the fuel pump cut-off for a few reasons:
