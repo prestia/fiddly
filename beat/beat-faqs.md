@@ -7,6 +7,7 @@ categories: beat
 tags: [beat,diy]
 parent: Honda Beat
 nav_order: 0
+date: September 7, 2023
 ---
 ## Fluids
 
