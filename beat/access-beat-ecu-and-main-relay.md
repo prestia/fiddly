@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "How to access the Honda Beat ECU and main relay"
-short-title: "Access ECU and main relay"
+short-title: "ECU and main relay access"
 author: "Anthony"
 categories: beat
 tags: [beat,diy]
 parent: Honda Beat
+date: September 2, 2023
 ---
 ## Intro
 This guide will walk you through the process of accessing the ECU and main relay in your Honda Beat. These sensitive electronic components are regularly exposed to extreme heat because they're located close to the engine. Over time, this can lead to failure of one or both. The most common issues are blown capacitors in the ECU or cracked solder joints in the main relay.
