@@ -50,7 +50,7 @@ If you have the cassette storage, you can remove this piece from the car. If you
 
 I have the subwoofer, so you'll see this piece resting in the middle throughout the tutorial.
 
-{: .tools-title }
+{: .aside-title }
 > Aside: Why not clean your Beat?
 > 
 > Your Beat is 30+ years old at this point. It's probably accumulated some gunk and grime in odd places. Now's a great time to start cleaning some of the harder to reach places as you remove panels from the car.
