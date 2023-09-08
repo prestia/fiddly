@@ -20,8 +20,7 @@ Accessing the main relay is also useful if you want to [install a kill switch](.
 
 ## Parts & tools
 
-{: .highlight }
-> A paragraph with a custom title callout
+{: .important }
 > 1. Stubby JIS 2 screwdriver (You'll need a stubby screwdriver to undo fasteners behind the passenger seat. Alternatively, you could remove the seat.)
 > 2. 10 mm socket
 > 3. Plastic pry tools
