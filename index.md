@@ -8,4 +8,4 @@ layout: home
 
 Pick a category to the left[^1] to start exploring!
 
-[^1]: Or, if you're on a tiny screen, the top-right.
+[^1]: Or the upper right if you're on a tiny screen.
