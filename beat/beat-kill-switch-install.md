@@ -14,8 +14,8 @@ This guide will walk you through the process of installing a kill switch that di
 
 1. [stay tuned...]
 
-## Parts & tools
-1. [stay tuned...]
+{: .tools }
+> 1. [stay tuned...]
 
 ## Instructions
 
