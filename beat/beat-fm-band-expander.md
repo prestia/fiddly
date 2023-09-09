@@ -14,6 +14,7 @@ If you're reading this tutorial, it's probably because you were disappointed whe
 
 Thankfully, if you have the stock Honda Beat Gathers head unit, there's a relatively simple fix: Install a [band expander](https://en.wikipedia.org/wiki/Band_expander) to tune in to stations above 95 MHz.
 
+### What is a band expander?
 The name "band expander" is a bit misleading. The device doesn't allow your radio to tune in to a wider range of stations. Rather, it shifts the frequency of each station by a set amount. Your head unit will still show 76-95 but you'll actually be listening to something 14 Mhz (or 28 MHz) higher.
 
 ![Picture of the Car Frequency Antenna, Radio FM Band Expander for Japanese Autos.](../assets/img/beat-fm-band-expander/band-expander.jpg)
@@ -38,7 +39,7 @@ To make this more concrete, here's how a few LA radio stations would be reduced:
 |  KPWR   |  105.9  |  77.9   | Hip-hop |
 |  KROQ   |  106.7  |  78.7   | Alternative |
 
-## Drawbacks
+### Drawbacks
 The main drawback of using a band expander is that we're trying to get a radio that can receive 14 MHz of spectrum to receive 20 MHz of spectrum. In this way, I guess it _technically_ expands the available FM bands. However, in practice, it's more likely to create frequency collisions that could reduce the number of stations you can hear clearly.
 
 For example, based on [Radio Locator](https://radio-locator.com/cgi-bin/locate?select=city&city=Los%20Angeles&state=CA) data, these are all of the potential collisions in Los Angeles:
@@ -63,13 +64,13 @@ To determine the potential frequency collisions in your area:
 2. Add 14 to each station under 90 MHz to see if there's a conflict (e.g., if your area gets 88.7 and 102.7, you have a conflict because 88.7 + 14 = 102.7).
 3. Subtract 14 from each station over 104 MHz to see if there's a conflict (e.g., if your area gets 106.3 and 92.3, you have a conflict because 106.3 - 14 = 92.3).
 
-## Parts & tools
-1. FM band expander (I bought [this cheap one](https://www.amazon.com/dp/B07TV7MWT1) on Amazon)
-2. Multimeter (anything capable of measuring 12v DC will do)
-3. 22-18 AWG ring terminal
-4. 22-18 AWG quick disconnect
-5. Crimp tool
-6. 22-18 AWG insulated wire
+{: .tools }
+> 1. **FM band expander** (I bought [this cheap one](https://www.amazon.com/dp/B07TV7MWT1) on Amazon)
+> 2. **Multimeter** (anything capable of measuring 12v DC will do)
+> 3. **22-18 AWG ring terminal**
+> 4. **22-18 AWG quick disconnect**
+> 5. **Crimp tool**
+> 6. **22-18 AWG insulated wire**
 
 ## Instructions
 
