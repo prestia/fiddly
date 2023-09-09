@@ -13,15 +13,15 @@ image: ../assets/img/beat-kill-switch-install/kill-switch.jpg
 This guide will walk you through the process of installing a kill switch that disables your fuel pump. There are quite a few ways to set up a kill switches, but I like the fuel pump cut-off because, as long as the  criminal doesn't find the switch, there's no way to steal the car short of towing it. Cutting fuel (instead of the battery) means the car will also power on and crank, so it's not immediately obvious that a security measure is at play. The thief may assume your 90s Honda is just a piece of junk and move on.
 
 {: .tools }
->  1. 25+A switch
->  2. Multimeter
->  3. 10mm socket/wrench
->  4. 16 AWG wire
->  5. Butt connectors
->  6. Crimping tool
->  7. Heat shrink tubing
->  8. Heat gun (or hair dryer)
->  9. JIS 2 screwdriver
+>  1. **25A switch**
+>  2. **Multimeter**
+>  3. **10mm socket/wrench**
+>  4. **16 AWG wire**
+>  5. **Butt connectors**
+>  6. **Crimping tool**
+>  7. **Heat shrink tubing**
+>  8. **Heat gun** (or hair dryer)
+>  9. **JIS 2 screwdriver**
 
 ## Instructions
 
@@ -40,11 +40,11 @@ After gaining access to your main relay, we need to unplug it so we can access t
 
 The main relay is secured by a single 10mm fastener:
 
-![Picture showing the 10mm realy fastener location.](../assets/img/10mm-location.jpg)
+![Picture showing the 10mm realy fastener location.](../assets/img/beat-kill-switch-install/10mm-location.jpg)
 
 Once the fastener is removed, push in this clip and carefully wiggle the fastener while pulling straight backL
 
-![Picture showing the clip on the main relay harness.](../assets/img/plug-removal.jpg)
+![Picture showing the clip on the main relay harness.](../assets/img/beat-kill-switch-install/plug-removal.jpg)
 
 If you're having trouble removing the plug, you can try to gently separate the parts with plastic pry tools.
 
