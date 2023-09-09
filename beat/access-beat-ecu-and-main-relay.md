@@ -53,7 +53,7 @@ I have the subwoofer, so you'll see this piece resting in the middle throughout 
 {: .aside-title }
 > Aside: Why not clean your Beat?
 > 
-> Your Beat is 30+ years old at this point. It's probably accumulated some gunk and grime in odd places. Now's a great time to start cleaning some of the harder to reach places as you remove panels from the car.
+> Your Beat is 30+ years old at this point. It's probably accumulated some gunk and grime in odd places. Now's a great time to start cleaning some of the hard-to-reach spots as you remove panels from the car.
 > 
 > ![Picture of the center trim piece being cleaned.](../assets/img/access-beat-ecu-and-main-relay/clean-odd-surfaces.jpg)
 
