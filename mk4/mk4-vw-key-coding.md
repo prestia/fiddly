@@ -10,9 +10,9 @@ image: ../assets/img/mk4-key-coding/key.jpeg
 date: August 31, 2023
 ---
 ## Intro
-I bought a 2002 VW GTI 1.8T for $200 in July 2023 to turn in to a [24 Hours of Lemons](https://24hoursoflemons.com) car. The car hadn't run in years and was in pretty rough shape, but I got it running — well! — for less than $150 in parts (and an embarrassing number of trips to the local pick-a-part).
+I bought a 2002 VW GTI 1.8T for $200 in July 2023 to turn in to a [24 Hours of Lemons](https://24hoursoflemons.com) car. The car hadn't run in years and was in pretty rough shape, but I got it running for less than $150 in parts (and an embarrassing number of trips to the local pick-a-part).
 
-After getting the car running, my priority was addressing the fact that I had a single key. I'm prone to putting things in places that are so secure even I can never find them again, and I didn't want that to happen to the VW.
+After achieving locomotion, my priority was coding aditional keys. The car only came with one and I'm prone to stashing things in places so secure that even I never find them again.
 
 Unfortunately, certain Mk4 VWs — I think post-2000, but don't quote me on that — have an immobilizer that makes it impossible to simply have a new key cut. While a duplicate key will start the car, it will immediately shut down and greet the prospective pilot with the most dreaded of glyphs:
 
@@ -20,7 +20,7 @@ Unfortunately, certain Mk4 VWs — I think post-2000, but don't quote me on that
 
 If you see this light, the immobilizer has kicked in and you're not going anywhere until you get a transponder coded (or "adapted") to work with the car.
 
-There are a few tools that can do this, but they're either quite expensive or require Windows or only work for a certain number of cars or have other obnoxious restrictions. Considering this software costs more than the $200 I paid for the car, I looked for more frugal options. Call me parsitonyous.
+There are a few tools that can do this, but they're either quite expensive or require Windows or are locked to a VIN number or have other obnoxious restrictions. Considering this software costs more than the $200 I paid for the car, I looked for more frugal options. Call me parsi*tony*ous.
 
 I don't blame you if you stop reading now.
 
