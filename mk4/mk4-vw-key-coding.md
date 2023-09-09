@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to code new keys for Mk4 VWs with Immo3 using open source software"
-short-title: "Code keys with FOSS"
+short-title: "Adapt keys with FOSS"
 parent: Mk4 VW
 author: "Anthony"
 categories: mk4-gti
