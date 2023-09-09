@@ -33,7 +33,7 @@ To rig our kill switch, we'll need access to the Beat's main relay. Luckily, I'v
 
 ### Step 1: Unplug the main relay (optional)
 
-{: .aside }
+{: .warning }
 > We're removing the main relay so we can we can determine which wire to cut to install our kill switch. I had to do this because there weren't any resources available on the internet. In theory, all Beats should be wired in the same way and you can jump straight to Step 3 and copy what I did without doing any testing. However, there's always a chance my 1994 Beat isn't the same as your 1991 Beat and your car won't run if you follow this guide without testing. Please test.
 
 After gaining access to your main relay, we need to unplug it so we can access the pins on the harness.

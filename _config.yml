@@ -12,5 +12,7 @@ callouts:
   aside:
     title: Aside
     color: green
+  warning:
+    color: red
 
 aux_links:
