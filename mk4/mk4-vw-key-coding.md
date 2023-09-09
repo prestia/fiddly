@@ -30,12 +30,11 @@ After a bit of searching, I came across an open source tool called [kw1281test](
 
 Documentation is sparse and, unlike the paid tools, kw1281test is command-line only. Still, it's quite powerful! Most everything you'll read from here down I've already added to the [kw1281test wiki](https://github.com/gmenounos/kw1281test/wiki). If you want clear, concise, prosaic, and IMHO boring directions, check out the wiki. If you want a fuller, bordering on prolix, explanation, you've come to the right place!
 
-## Parts & tools
-
-1. Laptop (or desktop _very_ close to your VW). I did this on a Mac, but it should also work on Linux and Windows (with some slight tweaks outlined in the [wiki](https://github.com/gmenounos/kw1281test/wiki)).
-2. USB -> KKL cable. Most of the cheap ones have a CH340 chip that will only work on Windows. If you plan to use a Mac or Linux, you'll need one with an FTDI chipset, like [this one](https://www.amazon.com/dp/B0BFDYC4SK). Honestly, just buy an FTDI cable because it works on Windows too.
-3. Set of _new_ transponders ([this 4-pack](https://www.amazon.com/dp/B098MC82J6) is cheap and works). The transponders _must_ be new. You cannot reuse transponders that have been used with another VW.
-4. USB-A to USB-C adapter (optional)
+{: .tools }
+> 1. **Laptop (or desktop _very_ close to your VW).** I did this on a Mac, but it should also work on Linux and Windows (with some slight tweaks outlined in the [wiki](https://github.com/gmenounos/kw1281test/wiki)).
+2. **USB -> KKL cable.** Most of the cheap ones have a CH340 chip that will only work on Windows. If you plan to use a Mac or Linux, you'll need one with an FTDI chipset, like [this one](https://www.amazon.com/dp/B0BFDYC4SK). Honestly, just buy an FTDI cable because it works on Windows too.
+3. **Set of _new_ transponders** ([this 4-pack](https://www.amazon.com/dp/B098MC82J6) is cheap and works). The transponders _must_ be new. You cannot reuse transponders that have been used with another VW.
+4. **USB-A to USB-C adapter** (Optional if you computer has USB-A ports.)
 
 ## Instructions
 
