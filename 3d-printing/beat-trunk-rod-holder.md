@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Honda Beat Trunk Rod Holder"
+short-title: "Beat Trunk Rod Holder"
+author: "Anthony"
+categories: 3d-printing
+tags: [beat,diy,3d-printing]
+parent: 3D Printing
+nav_order: 0
+date: September 20, 2023
+image: ../assets/img/3d-printing/beat-trunk-rod-holder.jpg
+---
+## Description
+
+The trunk rod holder on my Honda Beat was broken when I got the car, and 3D printing seemed like a better option than trying to import one from Japan. There was already a model for this part floating around the internet and, while functional, it doesn't resemble the original part at all.
+
+I found some [photos of the real part](https://yahoo.aleado.com/lot?auctionID=r1104154156) on Yahoo! Auctions and attempted to recreate it. Ultimately, I'm pretty happy with the result. This part is of similar design and dimensions to the original. The biggest change is that I filled in the sides to make the part more durable and easier to print.
+
+I printed the part in ABS because it has greater flexibility and heat resistance than PLA, but I may try other materials in the future.
+
+## Download
+
+[STL](../assets/stl/Honda_Beat_Trunk_Prop_Holder_FINAL.stl)
