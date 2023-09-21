@@ -6,7 +6,6 @@ author: "Anthony"
 categories: 3d-printing
 tags: [beat,diy,3d-printing]
 parent: 3D Printing
-nav_order: 0
 date: September 20, 2023
 image: ../assets/img/3d-printing/beat-trunk-rod-holder.jpg
 ---
