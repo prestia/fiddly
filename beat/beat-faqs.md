@@ -10,23 +10,25 @@ nav_order: 0
 date: September 7, 2023
 image: ../assets/img/beat-faqs/header.jpg
 ---
-## Fluids
+## What type of fluids should I use in my Honda Beat?
 
 ### Engine oil
 
-Generally, the Beat takes 3 liters of 10w30 oil. Though Honda recommends the following weights depending on outside temperature:
+Generally, the Beat takes 3 liters of 10w30 oil when completely empty. Though Honda recommends the following weights depending on outside temperature:
 
 ![Chart of recommended oil weights by outside temperature.](../assets/img/beat-faqs/oil-chart.jpg)
+
+Further, the service manual states that you should only need 2.7 liters of oil when replacing the oil and filter. This reduces to 2.5 liters when changing just the oil.
 
 The part number for the oil filter is #15400-PLM-A02 and should be pretty widely available in the U.S. because it was used on other period Hondas. Honda recommends replacement every 20,000 km (≈12,500 mi).
 
 ### Transmission oil
 
-Honda recommends 10w30 oil or Honda MTF. Replacement is recommended every 40,000 km (≈25,000 mi).
+Honda recommends 10w30 oil or Honda MTF. Replacement is recommended every 40,000 km (≈25,000 mi). When replacing, you'll need 1.2 liters. If your transmission is completely dry, you'll need 1.3 liters.
 
 ### Coolant
 
-The Beat uses 4.7 liters of of coolant (50% distilled water and 50% standard Honda Blue) and should be replaced every 2 years.
+Honda recommends changing the coolant every 2 years with 4.7 liters of 50% distilled water and 50% standard Honda Blue. If your cooling system is completely dry, you'll need 6 liters of the same coolant mixture.
 
 ### Brake fluid
 
@@ -40,28 +42,56 @@ DOT 3 brake fluid
 
 The Honda Beat runs on "regular" Japanese gas. Regular gas in Japan is >= 89 RON, which is roughly 85 octane in the U.S.
 
-## Timing belt
+## How often should I change my timing belt?
 
 Honda recommends that the Beat's timing belt is changed every 100,000 km (≈62,000 mi). However, a broken timing belt can lead to catastrophic damage to your hard-to-source 3-cylinder engine.
 
 As a result, most Beat owners recommend changing the timing belt as soon as possible if you don't have records of it being recently changed. When changing the timing belt, you should also change the water pump, idler pulley, and tensioner pulley.
 
-## Spark plugs
+## What type of spark plugs do I need for my Beat?
 
-Recommendation is NGK BKR6E-11 or Denso K20PR-U11.
+Honda recommends using NGK BKR6E-11/BKR7E-11 or Denso K20PR-U11/K22PR-U11 plugs torqued to 13-15 lb.ft. The service manual recommends a gap of 1.0-1.1 mm. Most U.S. Beat owners go with 0.030 in +/- 0.005 in.
 
-Plugs should be torqued to 13-15 lb.ft. Gap is 0.030 +/- 0.005.
-
-## Air filter
+## How often should I replace my air filter?
 
 Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 
-## Tires
+## What types of wheels and tires should I use on my Beat?
 
+### Wheels
+
+The stock wheels are:
+* Front: 13×4.5J w/ 35 offset
+* Rear: 14×5J w/ 45 offset
+
+### Tires
+
+The stock tires are:
 * Front: 155/65R13 73H
 * Rear: 165/60R14 74H
 
 Good luck finding these locally!
+
+### Spare tire
+
+* Tire: T115/70 D14
+* Wheel: 14×4T
+
+## What are the stock alignment values?
+
+### Camber
+
+* Front: -0°30’±1°
+* Rear: -0°30’±1°
+
+### Caster
+
+* Front: 7°20’±1°
+
+### Toe
+
+* Front: 0±3
+* Rear: 0±3
 
 ## How can I tell if my Beat has an LSD?
 
