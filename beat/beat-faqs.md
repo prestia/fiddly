@@ -32,22 +32,27 @@ Further, the service manual states that you should only need 2.7 liters of oil w
 The part number for the oil filter is #15400-PLM-A02 and should be pretty widely available in the U.S. because it was used on other period Hondas. Honda recommends replacement every 20,000 km (≈12,500 mi).
 
 ### Transmission oil
+{: .no_toc }
 
 Honda recommends 10w30 oil or Honda MTF. Replacement is recommended every 40,000 km (≈25,000 mi). When replacing, you'll need 1.2 liters. If your transmission is completely dry, you'll need 1.3 liters.
 
 ### Coolant
+{: .no_toc }
 
 Honda recommends changing the coolant every 2 years with 4.7 liters of 50% distilled water and 50% standard Honda Blue. If your cooling system is completely dry, you'll need 6 liters of the same coolant mixture.
 
 ### Brake fluid
+{: .no_toc }
 
 DOT 3 or DOT 4
 
 ### Clutch fluid
+{: .no_toc }
 
 DOT 3 brake fluid
 
 ### Gasoline
+{: .no_toc }
 
 The Honda Beat runs on "regular" Japanese gas. Regular gas in Japan is >= 89 RON, which is roughly 85 octane in the U.S.
 
@@ -68,12 +73,14 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 ## What types of wheels and tires should I use on my Beat?
 
 ### Wheels
+{: .no_toc }
 
 The stock wheels are:
 * Front: 13×4.5J w/ 35 offset
 * Rear: 14×5J w/ 45 offset
 
 ### Tires
+{: .no_toc }
 
 The stock tires are:
 * Front: 155/65R13 73H
@@ -82,6 +89,7 @@ The stock tires are:
 Good luck finding these locally!
 
 ### Spare tire
+{: .no_toc }
 
 * Tire: T115/70 D14
 * Wheel: 14×4T
@@ -89,15 +97,18 @@ Good luck finding these locally!
 ## What are the stock alignment values?
 
 ### Camber
+{: .no_toc }
 
 * Front: -0°30’±1°
 * Rear: -0°30’±1°
 
 ### Caster
+{: .no_toc }
 
 * Front: 7°20’±1°
 
 ### Toe
+{: .no_toc }
 
 * Front: 0±3
 * Rear: 0±3
