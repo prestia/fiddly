@@ -15,13 +15,14 @@ image: ../assets/img/beat-faqs/header.jpg
     Table of contents
   </summary>
   {: .text-delta }
-- TOC
+1. TOC
 {:toc}
 </details>
 
 ## What type of fluids should I use in my Honda Beat?
 
 ### Engine oil
+{: .no_toc }
 
 Generally, the Beat takes 3 liters of 10w30 oil when completely empty. Though Honda recommends the following weights depending on outside temperature:
 
