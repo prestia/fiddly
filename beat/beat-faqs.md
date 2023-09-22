@@ -10,6 +10,9 @@ nav_order: 0
 date: September 7, 2023
 image: ../assets/img/beat-faqs/header.jpg
 ---
+1. TOC
+{:toc}
+
 ## What type of fluids should I use in my Honda Beat?
 
 ### Engine oil
