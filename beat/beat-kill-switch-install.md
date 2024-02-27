@@ -50,6 +50,12 @@ If you're having trouble removing the plug, you can try to gently separate the p
 
 ### Step 2: Find the fuel pump wire
 
+With the main relay unplugged, we now need to find the wire that runs to the fuel pump.
+
+{: .aside-title }
+> What is a main relay?
+> 
+> The main relay is a single unit that contains two separate relays. When the ignition key is turned, one relay supplies power to the fuel injectors, ECU, and second relay. The second relay supplies power to the fuel pump.
 
 
 
