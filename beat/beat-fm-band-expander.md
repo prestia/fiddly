@@ -135,6 +135,11 @@ Not sure how to find a 12v accessory power source? Turn your key to ACC or ON, c
 
 ![Picture of a multimeter finding a 12v source.](../assets/img/beat-fm-band-expander/12v-source.jpg)
 
+{: .aside-title }
+> Tip: Tap into your ETC card reader
+> 
+> Many of the Japanese cars that are eligible for import into the U.S. will come with an aftermarket electronic toll collection (ETC) card reader. It's typically a small black box that, if connected to power, likely talks to you when you turn on the ignition. This is a great spot to tap for ignition power! Even if you don't have an ETC box, your car may have been wired for one. So, hunt around for loose wires in the driver or passenger footwells.
+
 When you find a 12v source, switch the key to the off position and test the source again. If it reads 0v, you found your power source. If you're still reading 12v, start the search again.
 
 ### Step 7: Test the band expander

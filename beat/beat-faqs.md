@@ -73,14 +73,16 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 
 ## What types of wheels and tires should I use on my Beat?
 
-### Wheels
+### Stock wheels
 {: .no_toc }
 
 The stock wheels are:
 * Front: 13×4.5J w/ 35 offset
 * Rear: 14×5J w/ 45 offset
 
-### Tires
+All wheels have a 4x100 bolt pattern.
+
+### Stock tires
 {: .no_toc }
 
 The stock tires are:
@@ -89,11 +91,33 @@ The stock tires are:
 
 Good luck finding these locally!
 
-### Spare tire
+### Stock spare
 {: .no_toc }
 
 * Tire: T115/70 D14
 * Wheel: 14×4T
+
+## What about aftermarket wheel and tire options?
+When considering aftermarket wheels and tires, I prioritize keeping the rolling diameter as close as possible to stock. Outside of that, it's worth considering size, weight, and whether you want to go with a square or staggered setup. There's plenty of good information about selecting wheels and tires, but here are some general guideliens on what _should_ fit the Honda Beat.
+
+### Front
+{: .no_toc }
+
+| Tire | Wheel | Offset | Rolling Diameter |
+| ---- | ----- | ------ | ---------------- |
+| 165/60R13 | 5.0Jx13 | ET36 | -0.6% |
+| 185/55R13 | 5.5Jx13 | ET35 | +0.4% |
+| 155/55R14 | 4.5Jx14 | ET36 | -1% |
+| 165/55R14 | 5.0Jx14 | ET34 | +1.1% |
+| 175/50R14 | 5.0Jx14 | ET35 | -0.2% |
+| 195/45R14 | 7.0Jx14 | ET35 | -0.1% |
+| 155/50R15 | 4.5Jx15 | ET34 | +0.9% |
+| 165/45R15 | 6.0Jx15 | ET35 | -0.4% |
+| 175/45R15 | 6.0Jx15 | ET34 | +1.3% |
+| 185/40R15 | 6.5Jx15 | ET35 | -0.5% |
+
+### Rear
+{: .no_toc }
 
 ## What are the stock alignment values?
 
