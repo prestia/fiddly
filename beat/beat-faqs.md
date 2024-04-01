@@ -98,7 +98,7 @@ Good luck finding these locally!
 * Wheel: 14×4T
 
 ## What about aftermarket wheel and tire options?
-When considering aftermarket wheels and tires, I prioritize keeping the rolling diameter as close as possible to stock. Outside of that, it's worth considering size, weight, and whether you want to go with a square or staggered setup. There's plenty of good information about selecting wheels and tires, but here are some general guideliens on what _should_ fit the Honda Beat.
+When considering aftermarket wheels and tires, I prioritize keeping the rolling diameter as close as possible to stock. Outside of that, it's worth considering size, weight, and whether you want to go with a square or staggered setup. There's plenty of good information about selecting wheels and tires, but here are some general guidelines on what _should_ fit the Honda Beat.
 
 ### Front
 {: .no_toc }
