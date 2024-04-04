@@ -158,6 +158,20 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 * Front: 0±3
 * Rear: 0±3
 
+## How many Beats were produced in each color?
+
+33,892 Honda Beats were produced from 1991 to 1996. However, only 33,680 were ever registered in Japan. The distribution of colors is as follows:
+
+| Color | Note | Percentage |
+| ----- | ---- | ---------- |
+| Carnival yellow |  | 31.0% |
+| Festival red |  | 33.0% |
+| Blade silver metallic  |  | 23.0% |
+| Crete white |  | 4.3% |
+| Aztec green pearl | Special Version F | 2.4% |
+| Captiva blue pearl | Special Version C | 1.5% |
+| Everglade green metallic | Special Version Z | 4.8% |
+
 ## How can I tell if my Beat has an LSD?
 
 There's quite a bit of misinformation on the web about which Beats came with limited slip differentials from the factory. My Version Z did not, but I suspect most of the PP1-110 models do.
