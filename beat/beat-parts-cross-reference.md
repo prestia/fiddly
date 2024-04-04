@@ -7,11 +7,7 @@ categories: beat
 tags: [beat,diy]
 parent: Honda Beat
 date: April 3, 2024
-image: ../assets/img/beat-faqs/header.jpg
 ---
-
-## Honda Beat parts cross-reference
-
 The information on this sheet was originally shared on a Facebook group for Beat owners. I don't have a Facebook account, but was forwarded a PDF with the following table. I've reformatted it for the web and will make periodic updates.
 
 |Part Description            |Honda PN          |Alternate PN or vehicle application                                              |Alternate PN                              |Alternate PN   |
