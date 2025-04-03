@@ -7,7 +7,7 @@ categories: beat
 tags: [beat,diy]
 parent: Honda Beat
 nav_order: 0
-date: September 7, 2023
+date: April 3, 2025
 image: ../assets/img/beat-faqs/header.jpg
 ---
 <details open markdown="block">
