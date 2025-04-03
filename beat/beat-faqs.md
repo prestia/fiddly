@@ -148,19 +148,19 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 ### Camber
 {: .no_toc }
 
-* Front: -0°30’±1°
-* Rear: -0°30’±1°
+| **Front** | -0°30’±1° |
+| **Rear** | -0°30’±1° |
 
 ### Caster
 {: .no_toc }
 
-* Front: 7°20’±1°
+| **Front** | 7°20’±1° |
 
 ### Toe
 {: .no_toc }
 
-* Front: 0±3
-* Rear: 0±3
+| **Front** | 0±3 |
+| **Rear** | 0±3 |
 
 ## How many Beats were produced in each color?
 
