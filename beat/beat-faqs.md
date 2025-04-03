@@ -79,8 +79,8 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 {: .no_toc }
 
 The stock wheels are:
-| - | Size | Offset |
-| - | ---- | ------ |
+| Position | Size | Offset |
+| -------- | ---- | ------ |
 | **Front** | 13×4.5J | 35 |
 | **Rear** | 14×5J | 45 |
 
@@ -90,8 +90,8 @@ All wheels have a 4x100 bolt pattern.
 {: .no_toc }
 
 The stock tires are:
-| - | Size | Service Description |
-| - | ---- | ------ |
+| Position | Size | Service Description |
+| -------- | ---- | ------ |
 | **Front** | 155/65R13 | 73H |
 | **Rear** | 165/60R14 | 74H |
 
@@ -159,6 +159,7 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 {: .no_toc }
 
 | **Front** | 7°20’±1° |
+| **Rear** | n/a |
 
 ### Toe
 {: .no_toc }
