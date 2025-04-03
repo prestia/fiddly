@@ -79,6 +79,7 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 {: .no_toc }
 
 The stock wheels are:
+
 | Position | Size | Offset |
 | -------- | ---- | ------ |
 | **Front** | 13×4.5J | 35 |
@@ -90,6 +91,7 @@ All wheels have a 4x100 bolt pattern.
 {: .no_toc }
 
 The stock tires are:
+
 | Position | Size | Service Description |
 | -------- | ---- | ------------------- |
 | **Front** | 155/65R13 | 73H |
@@ -100,8 +102,8 @@ As of writing, tires in this fitment are not available in the U.S. You may be ab
 ### Stock spare
 {: .no_toc }
 
-* Tire: T115/70 D14
-* Wheel: 14×4T
+| **Tire** | T115/70 D14 |
+| **Wheel** | 14×4T |
 
 ## What about aftermarket wheel and tire options?
 When considering aftermarket wheels and tires, I prioritize keeping the rolling diameter as close as possible to stock. Aside from that, it's worth considering size, weight, and whether you want to go with a square or staggered setup. There's plenty of good information about selecting wheels and tires, but here are some general guidelines on what _should_ fit the Honda Beat.
