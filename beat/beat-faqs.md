@@ -79,8 +79,10 @@ Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 {: .no_toc }
 
 The stock wheels are:
-* Front: 13×4.5J w/ 35 offset
-* Rear: 14×5J w/ 45 offset
+| - | Size | Offset |
+| - | ---- | ------ |
+| **Front** | 13×4.5J | 35 |
+| **Rear** | 14×5J | 45 |
 
 All wheels have a 4x100 bolt pattern.
 
@@ -88,8 +90,10 @@ All wheels have a 4x100 bolt pattern.
 {: .no_toc }
 
 The stock tires are:
-* Front: 155/65R13 73H
-* Rear: 165/60R14 74H
+| - | Size | Service Description |
+| - | ---- | ------ |
+| **Front** | 155/65R13 | 73H |
+| **Rear** | 165/60R14 | 74H |
 
 As of writing, tires in this fitment are not available in the U.S. You may be able to mix-and-match tires from lower-end brands, but even that can be difficult. Your best bet is importing a set of Bridgestones or Yokohamas from Japan or [getting aftermarket wheels](#what-about-aftermarket-wheel-and-tire-options).
 
@@ -107,33 +111,33 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 
 | Tire | Wheel | Offset | Rolling Diameter |
 | ---- | ----- | ------ | ---------------- |
-| 165/60R13 | 13x5.0 | ET36 | -0.6% |
-| 185/55R13 | 13x5.5 | ET35 | +0.4% |
-| 155/55R14 | 14x4.5 | ET36 | -1% |
-| 165/55R14 | 14x5.0 | ET34 | +1.1% |
-| 175/50R14 | 14x5.0 | ET35 | -0.2% |
-| 195/45R14 | 14x7.0 | ET35 | -0.1% |
-| 155/50R15 | 15x4.5 | ET34 | +0.9% |
-| 165/45R15 | 15x6.0 | ET35 | -0.4% |
-| 175/45R15 | 15x6.0 | ET34 | +1.3% |
-| 185/40R15 | 15x6.5 | ET35 | -0.5% |
+| 165/60R13 | 13x5.0 | 36 | -0.6% |
+| 185/55R13 | 13x5.5 | 35 | +0.4% |
+| 155/55R14 | 14x4.5 | 36 | -1% |
+| 165/55R14 | 14x5.0 | 34 | +1.1% |
+| 175/50R14 | 14x5.0 | 35 | -0.2% |
+| 195/45R14 | 14x7.0 | 35 | -0.1% |
+| 155/50R15 | 15x4.5 | 34 | +0.9% |
+| 165/45R15 | 15x6.0 | 35 | -0.4% |
+| 175/45R15 | 15x6.0 | 34 | +1.3% |
+| 185/40R15 | 15x6.5 | 35 | -0.5% |
 
 ### Rear
 {: .no_toc }
 
 | Tire | Wheel | Offset | Rolling Diameter |
 | ---- | ----- | ------ | ---------------- |
-| 175/55R14 | 14x5.0 | ET46 | -0.9% |
-| 185/55R14 | 14x5.5 | ET44 | +1% |
-| 195/50R14 | 14x5.5 | ET45 | -0.5% |
-| 165/50R15 | 15x5.0 | ET46 | -1.3% |
-| 175/50R15 | 15x5.0 | ET45 | +0.5% |
-| 185/45R15 | 15x6.5 | ET46 | -1.1% |
-| 195/45R15 | 15x7.0 | ET45 | +0.6% |
-| 165/45R16 | 16x6.0 | ET45 | +0.3% |
-| 175/40R16 | 16x6.0 | ET46 | -1.3% |
-| 185/40R16 | 16x6.5 | ET45 | +0.2% |
-| 205/35R16 | 16x7.0 | ET46 | -0.6% |
+| 175/55R14 | 14x5.0 | 46 | -0.9% |
+| 185/55R14 | 14x5.5 | 44 | +1% |
+| 195/50R14 | 14x5.5 | 45 | -0.5% |
+| 165/50R15 | 15x5.0 | 46 | -1.3% |
+| 175/50R15 | 15x5.0 | 45 | +0.5% |
+| 185/45R15 | 15x6.5 | 46 | -1.1% |
+| 195/45R15 | 15x7.0 | 45 | +0.6% |
+| 165/45R16 | 16x6.0 | 45 | +0.3% |
+| 175/40R16 | 16x6.0 | 46 | -1.3% |
+| 185/40R16 | 16x6.5 | 45 | +0.2% |
+| 205/35R16 | 16x7.0 | 46 | -0.6% |
 
 ## What are the stock tire pressures?
 
@@ -154,7 +158,7 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 ### Caster
 {: .no_toc }
 
-7°20’±1°
+| **Front** | 7°20’±1° |
 
 ### Toe
 {: .no_toc }
