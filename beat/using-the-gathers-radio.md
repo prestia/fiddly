@@ -42,6 +42,7 @@ The guide is divided into 5 sections:
 3. [Cassette](#cassette)
 4. [CD changer](#cd-changer)
 5. [Error codes](#error-codes)
+6. [Harness Pinout]
 
 Please [reach out](mailto:anthony@fiddly.net) if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/fiddly/edit/main/beat/using-the-gathers-radio.md).
 
@@ -211,7 +212,7 @@ Here are all of the known error codes for the GXC-8290SF head unit:
 
 | Display error | Mode | Meaning | Priority | Recommended fix |
 |:-------:|:--------:|:--------:|:--------:|:--------:|
-| Err1 | CD | Memory error | 1 |Eject the CD changer and try re-inserting the disc. |
+| Err1 | CD | Memory error | 1 | Eject the CD changer and try re-inserting the disc. |
 | Err2 | CD | Mechanical error | 2 | Take your CD changer to a repair shop. |
 | HHHH | CD | Temperature error | 3 | Allow the CD changer time to cool off. |
 | Err3 | CD | Function error | 4 | Take your CD changer to a repair shop. |
@@ -221,6 +222,29 @@ Here are all of the known error codes for the GXC-8290SF head unit:
 | Err8 | Tape | Eject error |  | Take your head unit to a repair shop. |
 
 Note: Priority determines which error will be displayed in the event of multiple errors occurring at the same time.
+
+## Harness Pinout
+
+![Diagram of the GXC-8290SF harness plug pins.](../assets/img/using-the-gathers-radio/harness-plug-pinout.png)
+
+| Pin | Function | Color |
+|:---:|:--------:|:-----:|
+| 1 | R+ (right front +) | red/yellow |
+| 2 | L+ (left front +) | blue/yellow |
+| 3 | SW+B (amp switch) | blue |
+| 4 | ACC (12v switched) | yellow/red (thick gauge) |
+| 5 | B.U (backup memory constant 12v) | white/blue |
+| 6 | ILL (illuminate w/ parking lights) | red/black |
+| 7 | L+ (left rear +) | blue/green |
+| 8 | R+ (right rear +) | red/green |
+| 9 | R- (right front -) | brown/white |
+| 10 | L- (left front -) | gray/white |
+| 11 | GND (ground) | black |
+| 12 | AVC (speed volume adjust) | yellow/red |
+| 13 | MUTE (mute wire) | yellow/white |
+| 14 | blank |  |
+| 15 | L- (left rear -) | gray/black |
+| 16 | R- (right rear -) | brown/black |
 
 ## More reading
 
