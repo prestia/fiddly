@@ -154,13 +154,13 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 ### Caster
 {: .no_toc }
 
-| **Front** | 7°20’±1° |
+7°20’±1°
 
 ### Toe
 {: .no_toc }
 
-| **Front** | 0±3 |
-| **Rear** | 0±3 |
+| **Front** | 0±3 mm |
+| **Rear** | 1±3 mm |
 
 ## How many Beats were produced in each color?
 
