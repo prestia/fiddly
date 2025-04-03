@@ -91,7 +91,7 @@ All wheels have a 4x100 bolt pattern.
 
 The stock tires are:
 | Position | Size | Service Description |
-| -------- | ---- | ------ |
+| -------- | ---- | ------------------- |
 | **Front** | 155/65R13 | 73H |
 | **Rear** | 165/60R14 | 74H |
 
