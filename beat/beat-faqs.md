@@ -139,9 +139,9 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 
 | Tire | kg/cm² | psi |
 | ---- | ------ | --- |
-| Front | 1.8 | ~25.6 |
-| Rear | 2.0 | ~28.5 |
-| Spare | 4.2 | ~59.7 |
+| **Front** | 1.8 | ≈25.6 |
+| **Rear** | 2.0 | ≈28.5 |
+| **Spare** | 4.2 | ≈59.7 |
 
 ## What are the stock alignment values?
 
@@ -182,7 +182,7 @@ There's quite a bit of misinformation on the web about which Beats came with lim
 
 In any event, it's incredibly easy to test whether your Beat currently has an LSD:
 
-1. Put your Beat on a lift or chock the front wheels and jack up the back
+1. Put your Beat on a lift or chock the front wheels and jack up the rear
 2. Disengage the parking brake
 3. Put the car in first gear
 4. Put on some short shorts (not optional)
