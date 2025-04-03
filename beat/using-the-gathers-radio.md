@@ -11,7 +11,7 @@ date: September 6, 2023
 ---
 ## Intro
 
-As far as I can tell, there were two main Gathers head units available in the Honda Beat. The GXC-8200SF and the GXC-8290SF.
+As far as I can tell, there were two Gathers head units available in the Honda Beat: the GXC-8200SF and the GXC-8290SF.
 
 ### GXC-8200SF
 
@@ -42,9 +42,9 @@ The guide is divided into 5 sections:
 3. [Cassette](#cassette)
 4. [CD changer](#cd-changer)
 5. [Error codes](#error-codes)
-6. [Harness Pinout]
+6. [Harness Pinout](#harness-pinout)
 
-Please [reach out](mailto:anthony@fiddly.net) if you have an info on the 20th Anniversary head unit or feel free to [edit this post directly](https://github.com/prestia/fiddly/edit/main/beat/using-the-gathers-radio.md).
+Please [reach out](mailto:anthony@fiddly.net) if you have an info on the 20th Anniversary head unit or [edit this post directly](https://github.com/prestia/fiddly/edit/main/beat/using-the-gathers-radio.md).
 
 ## General usage
 
