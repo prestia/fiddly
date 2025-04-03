@@ -91,7 +91,7 @@ The stock tires are:
 * Front: 155/65R13 73H
 * Rear: 165/60R14 74H
 
-Good luck finding these locally!
+As of writing, tires in this fitment are not available in the U.S. You may be able to mix-and-match tires from lower-end brands, but even that can be difficult. Your best bet is importing a set of Bridgestones or Yokohamas from Japan or [getting aftermarket wheels](#what-about-aftermarket-wheel-and-tire-options).
 
 ### Stock spare
 {: .no_toc }
@@ -100,7 +100,7 @@ Good luck finding these locally!
 * Wheel: 14×4T
 
 ## What about aftermarket wheel and tire options?
-When considering aftermarket wheels and tires, I prioritize keeping the rolling diameter as close as possible to stock. Outside of that, it's worth considering size, weight, and whether you want to go with a square or staggered setup. There's plenty of good information about selecting wheels and tires, but here are some general guidelines on what _should_ fit the Honda Beat.
+When considering aftermarket wheels and tires, I prioritize keeping the rolling diameter as close as possible to stock. Aside from that, it's worth considering size, weight, and whether you want to go with a square or staggered setup. There's plenty of good information about selecting wheels and tires, but here are some general guidelines on what _should_ fit the Honda Beat.
 
 ### Front
 {: .no_toc }
@@ -137,9 +137,11 @@ When considering aftermarket wheels and tires, I prioritize keeping the rolling 
 
 ## What are the stock tire pressures?
 
-* Front: 1.8 kg/cm² or ~25.6 psi
-* Rear: 2.0 kg/cm² or ~28.5 psi
-* Spare: 4.2 kg/cm² or ~59.7 psi
+| Tire | kg/cm² | psi |
+| ---- | ------ | --- |
+| Front | 1.8 | ~25.6 |
+| Rear | 2.0 | ~28.5 |
+| Spare | 4.2 | ~59.7 |
 
 ## What are the stock alignment values?
 
