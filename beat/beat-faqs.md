@@ -73,6 +73,28 @@ Honda recommends using NGK BKR6E-11/BKR7E-11 or Denso K20PR-U11/K22PR-U11 plugs 
 
 Honda recommends replacing the air filter every 40,000 km (≈25,000 mi).
 
+## How do I safely put my Beat on a lift or jack stands?
+
+### Using a lift
+If you're using a lift, the Beat has two lift points on either side of the vehicle:
+
+![Diagram showing the Honda Beat lift points.](../assets/img/beat-faqs/honda-beat-lift-points.webp)
+
+When using a lift, Honda recommends using rubber pads to prevent damage to the pinch welds.
+
+### Using a jack and jack stands
+If you're using a jack, you'll find front and rear jack points:
+
+![Diagram showing the Honda Beat front jack point.](../assets/img/beat-faqs/honda-beat-front-jack-point.webp)
+
+![Diagram showing the Honda Beat rear jack point.](../assets/img/beat-faqs/honda-beat-rear-jack-point.webp)
+
+When using the front jack point, make sure you apply the parking brake. When using the rear jack point, make sure you chock the front wheels.
+
+Once the car is in the air, you can place jack stands in any of the following positions:
+
+![Diagram showing the Honda Beat jack stand supports.](../assets/img/beat-faqs/honda-beat-jack-stand-supports.webp)
+
 ## What types of wheels and tires should I use on my Beat?
 
 ### Stock wheels
