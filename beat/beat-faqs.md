@@ -95,6 +95,8 @@ Once the car is in the air, you can place jack stands in any of the following po
 
 ![Diagram showing the Honda Beat jack stand supports.](../assets/img/beat-faqs/honda-beat-jack-stand-supports.webp)
 
+Rubber pads are recommended to protect the pinch welds.
+
 ## What types of wheels and tires should I use on my Beat?
 
 ### Stock wheels
