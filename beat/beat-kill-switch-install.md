@@ -59,7 +59,7 @@ With the main relay unplugged, we now need to find the wire that runs to the fue
 
 To figure out which wire is providing power to the fuel pump, we'll use our multimeter to test each pin to find the one that supplies +12v when the key is turned to ACC.
 
-![Picture showing the pin layout on the  main relay harness.](../assets/img/main-relay-pins.jpg)
+![Picture showing the pin layout on the  main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pins.jpg)
 
 To start, connect the black probe of your multimeter to a ground. Any bare metal surface will do. I connected mine to the door latch, which can be seen below.
 
@@ -74,3 +74,5 @@ Now, **with the car turned on or in the ACC position**, once again probe each of
 ![Picture showing +12v supply to Pin 5 on the main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pin-5-hot.jpg)
 
 ### Step 3: 
+
+**_[Coming soon.]_**
