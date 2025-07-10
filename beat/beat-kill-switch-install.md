@@ -57,6 +57,20 @@ With the main relay unplugged, we now need to find the wire that runs to the fue
 > 
 > The main relay is a single unit that contains two separate relays. When the ignition key is turned, one relay supplies power to the fuel injectors, ECU, and second relay. The second relay supplies power to the fuel pump.
 
+To figure out which wire is providing power to the fuel pump, we'll use our multimeter to test each pin to find the one that supplies +12v when the key is turned to ACC.
 
+![Picture showing the pin layout on the  main relay harness.](../assets/img/main-relay-pins.jpg)
+
+To start, connect the black probe of your multimeter to a ground. Any bare metal surface will do. I connected mine to the door latch, which can be seen below.
+
+Next, **with the car off**, insert the red probe into each of connector pins to see if any supply a constant +12v. If they do, we know these aren't the wires we're looking for and can safely ignore them in the next step. In my case, Pin 1 was always hot and could be safely ignored.
+
+![Picture showing +12v supply to Pin 1 on the main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pin-1.jpg)
+
+Now, **with the car turned on or in the ACC position**, once again probe each of the terminals to see which are supplying +12v. You should find one terminal that is now supplying power that wasn't when the car was off. In my case, it was Pin 5.
+
+![Picture showing no power to Pin 5 on the main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pin-5-cold.jpg)
+
+![Picture showing +12v supply to Pin 5 on the main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pin-5-hot.jpg)
 
 ### Step 3: 
