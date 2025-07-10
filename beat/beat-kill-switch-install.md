@@ -57,13 +57,13 @@ With the main relay unplugged, we now need to find the wire that runs to the fue
 > 
 > The main relay is a single unit that contains two separate relays. When the ignition key is turned, one relay supplies power to the fuel injectors, ECU, and second relay. The second relay supplies power to the fuel pump.
 
-To figure out which wire is providing power to the fuel pump, we'll use our multimeter to test each pin to find the one that supplies +12v when the key is turned to ACC.
+To figure out which wire is providing power to the fuel pump, we'll use a multimeter to test each pin and find one that supplies +12v only when the key is turned to ACC.
 
 ![Picture showing the pin layout on the  main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pins.jpg)
 
-To start, connect the black probe of your multimeter to a ground. Any bare metal surface will do. I connected mine to the door latch, which can be seen below.
+To start, set your multimeter to measure DC volts and connect the black probe to a ground. Any bare metal surface will do. I connected mine to the door latch, which can be seen below.
 
-Next, **with the car off**, insert the red probe into each of connector pins to see if any supply a constant +12v. If they do, we know these aren't the wires we're looking for and can safely ignore them in the next step. In my case, Pin 1 was always hot and could be safely ignored.
+Next, **with the car off**, insert the red probe into each of connector pins to see which supply a constant +12v. If they do, we know these aren't the wires we're looking for and can safely ignore them in the next step. In my case, Pin 1 was always hot and could be safely ignored.
 
 ![Picture showing +12v supply to Pin 1 on the main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pin-1.jpg)
 
@@ -73,6 +73,18 @@ Now, **with the car turned on or in the ACC position**, once again probe each of
 
 ![Picture showing +12v supply to Pin 5 on the main relay harness.](../assets/img/beat-kill-switch-install/main-relay-pin-5-hot.jpg)
 
-### Step 3: 
+### Step 3: Cutting into the main relay wiring harness
 
-**_[Coming soon.]_**
+Now that we know which pin is supplying power to the fuel pump, we need to cut into it so we can splice in the kill switch. Before we get started, **disconnect the negative terminal of your battery**.
+
+With the battery disconnected, you can now start pushing back the insulation covering the harness wires.
+
+![Picture showing the harness wiring insulation pushed back.](../assets/img/beat-kill-switch-install/harness-exposed.jpg)
+
+With the wires exposed, you can now cut the wire(s) we identified in [Step 2](#step-2-find-the-fuel-pump-wire). (Again, for me, this was Pin 5.) You'll want to cut somewhere in the middle of the wire(s) because we'll need to strip back insulation on both sides to install our kill switch.
+
+In my case, I had two wires going to Pin 5, so I cut through both of them and twisted the ends together before installing the kill switch.
+
+![Picture showing the harness wires cut at the midpoint.](../assets/img/beat-kill-switch-install/wire-harness-cut.jpg)
+
+**_[More coming soon.]_**
